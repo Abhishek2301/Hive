@@ -1,5 +1,5 @@
 /* UDAF to return rows by computing the top N percent
- * of a selected column attribute
+ * of a selected column attribute from the table
 */
 
 import java.util.ArrayList;
