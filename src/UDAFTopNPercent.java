@@ -1,3 +1,7 @@
+/* UDAF to return rows by computing the top N percent
+ * of a selected column attribute
+*/
+
 import java.util.ArrayList;
 import java.util.Collections;
 
